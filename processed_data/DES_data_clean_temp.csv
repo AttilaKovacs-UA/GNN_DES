@@ -1,0 +1,1240 @@
+HBA,HBD,T(K),Density (kg/m3),rate_HBA,rate_HBD,HBA_SMILES,HBD_SMILES,Split
+Acetyl choline chloride,"1,2,4-triazole",303.15,1129.3,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1cncn1,Train
+Acetyl choline chloride,"1,2,4-triazole",313.15,1124.9,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1cncn1,Train
+Acetyl choline chloride,"1,2,4-triazole",323.15,1119.3,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1cncn1,Train
+Acetyl choline chloride,"1,2,4-triazole",333.15,1113.3,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1cncn1,Train
+Acetyl choline chloride,"1,2,4-triazole",343.15,1108.1000000000001,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1cncn1,Train
+Acetyl choline chloride,"1,2,4-triazole",353.15,1103.6999999999998,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1cncn1,Train
+Acetyl choline chloride,"1,2,4-triazole",363.15,1100.2,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1cncn1,Train
+Acetyl choline chloride,D-Fructose,293.15,1266.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,298.15,1263.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,303.15,1260.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,308.15,1257.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,313.15,1254.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,318.15,1250.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,323.15,1247.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,328.15,1244.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,333.15,1240.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,338.15,1237.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,343.15,1233.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,348.15,1229.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Fructose,353.15,1226.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Acetyl choline chloride,D-Glucose,293.15,1266.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,298.15,1263.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,303.15,1260.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,308.15,1257.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,313.15,1253.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,318.15,1250.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,323.15,1247.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,328.15,1244.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,333.15,1241.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,338.15,1238.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,343.15,1235.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,348.15,1232.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Glucose,353.15,1229.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,293.15,1275.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,298.15,1272.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,303.15,1269.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,308.15,1266.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,313.15,1262.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,318.15,1259.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,323.15,1256.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,328.15,1253.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,333.15,1250.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,338.15,1247.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,343.15,1244.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,348.15,1241.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Mannose,353.15,1238.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,293.15,1258.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,298.15,1255.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,303.15,1252.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,308.15,1249.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,313.15,1245.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,318.15,1242.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,323.15,1239.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,328.15,1235.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,333.15,1232.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,338.15,1229.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,343.15,1226.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,348.15,1223.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Ribose,353.15,1219.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,293.15,1257.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,298.15,1254.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,303.15,1251.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,308.15,1248.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,313.15,1245.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,318.15,1241.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,323.15,1238.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,328.15,1235.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,333.15,1232.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,338.15,1229.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,343.15,1226.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,348.15,1223.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,D-Xylose,353.15,1220.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Acetyl choline chloride,Guaiacol,293.15,1149.6,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,303.15,1146.1,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,313.15,1139.8,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,323.15,1133.8,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,293.15,1149.3,1,4,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,303.15,1144.8,1,4,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,313.15,1138.1,1,4,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,323.15,1131.6999999999998,1,4,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,293.15,1152.7,1,5,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,303.15,1148.1,1,5,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,313.15,1142.5,1,5,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Guaiacol,323.15,1135.1,1,5,[Cl-].CC(=O)OCC[N+](C)(C)C,COc1ccccc1O,Train
+Acetyl choline chloride,Imidazole,303.15,1125.6,1,1.5,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Test
+Acetyl choline chloride,Imidazole,313.15,1120.0,1,1.5,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Test
+Acetyl choline chloride,Imidazole,323.15,1115.3999999999999,1,1.5,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Test
+Acetyl choline chloride,Imidazole,333.15,1109.2,1,1.5,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Test
+Acetyl choline chloride,Imidazole,343.15,1105.2,1,1.5,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Test
+Acetyl choline chloride,Imidazole,353.15,1100.0,1,1.5,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Test
+Acetyl choline chloride,Imidazole,363.15,1095.5,1,1.5,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Test
+Acetyl choline chloride,Imidazole,303.15,1120.6000000000001,1,2,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,313.15,1114.1000000000001,1,2,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,323.15,1109.2,1,2,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,333.15,1102.6000000000001,1,2,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,343.15,1098.7,1,2,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,353.15,1093.5,1,2,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,363.15,1089.5,1,2,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,303.15,1155.7,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,313.15,1151.7,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,323.15,1145.6,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,333.15,1142.1,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,343.15,1138.4,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,353.15,1132.6000000000001,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Imidazole,363.15,1128.5,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,[nH]1ccnc1,Train
+Acetyl choline chloride,Levulinic acid,293.15,1144.4,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,298.15,1140.6000000000001,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,303.15,1136.9,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,308.15,1133.0,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,313.15,1129.3999999999999,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,318.15,1125.6,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,323.15,1121.8,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,328.15,1117.8999999999999,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,333.15,1114.4,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,338.15,1110.7,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,343.15,1106.9,1,1,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Test
+Acetyl choline chloride,Levulinic acid,303.15,1136.9,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Train
+Acetyl choline chloride,Levulinic acid,313.15,1129.3999999999999,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Train
+Acetyl choline chloride,Levulinic acid,323.15,1121.8,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Train
+Acetyl choline chloride,Levulinic acid,333.15,1114.4,1,3,[Cl-].CC(=O)OCC[N+](C)(C)C,CC(=O)CCC(O)=O,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,293.15,1201.1000000000001,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,298.15,1197.5,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,303.15,1193.8,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,308.15,1190.1,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,313.15,1186.3999999999999,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,318.15,1182.7,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,323.15,1179.0,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,328.15,1175.4,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,333.15,1171.7,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,338.15,1167.8999999999999,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,343.15,1164.1999999999998,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,293.15,1159.8999999999999,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,298.15,1156.3000000000002,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,303.15,1152.6000000000001,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,308.15,1149.0,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,313.15,1145.3,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,318.15,1141.7,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,323.15,1138.0,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,328.15,1134.4,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,333.15,1130.7,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,338.15,1127.0,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,343.15,1123.3,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,293.15,1146.3000000000002,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,298.15,1142.7,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,303.15,1139.1,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,308.15,1135.5,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,313.15,1131.8999999999999,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,318.15,1128.2,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,323.15,1124.6000000000001,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,328.15,1121.0,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,333.15,1117.3,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,338.15,1113.6,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Diethylene glycol,343.15,1109.9,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,293.15,1190.8000000000002,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,298.15,1187.1000000000001,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,303.15,1183.4,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,308.15,1179.7,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,313.15,1176.1,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,318.15,1172.4,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,323.15,1168.7,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,328.15,1165.0,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,333.15,1161.3,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,338.15,1157.6,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,343.15,1153.8999999999999,1,4,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,293.15,1159.2,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,298.15,1155.5,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,303.15,1151.7,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,308.15,1148.0,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,313.15,1144.2,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,318.15,1140.5,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,323.15,1136.7,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,328.15,1133.0,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,333.15,1129.2,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,338.15,1125.5,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,343.15,1121.6999999999998,1,10,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Train
+Allyl triphenylphosphonium bromide,Triethylene glycol,293.15,1146.2,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,298.15,1142.5,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,303.15,1138.8,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,308.15,1135.0,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,313.15,1131.3,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,318.15,1127.5,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,323.15,1123.6999999999998,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,328.15,1119.8999999999999,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,333.15,1116.1000000000001,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,338.15,1112.2,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Allyl triphenylphosphonium bromide,Triethylene glycol,343.15,1108.4,1,16,[Br-].C=CC[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCOCCOCCO,Test
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,293.15,1063.6000000000001,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,298.15,1060.6,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,303.15,1057.5,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,308.15,1054.4,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,313.15,1051.3999999999999,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,318.15,1048.3,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,323.15,1045.1999999999998,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,328.15,1042.1000000000001,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,333.15,1039.0,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,338.15,1036.0,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Ethylene Glycol,343.15,1032.8999999999999,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCCO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,293.15,1133.0,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,298.15,1130.0,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,303.15,1126.9,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,308.15,1123.8,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,313.15,1120.6000000000001,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,318.15,1117.5,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,323.15,1114.5,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,328.15,1111.3999999999999,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,333.15,1108.3,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,338.15,1105.2,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Glycerol,343.15,1102.2,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OCC(O)CO,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,293.15,1120.6000000000001,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,298.15,1117.1,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,303.15,1113.5,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,308.15,1109.9,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,313.15,1106.4,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,318.15,1102.7,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,323.15,1099.2,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,328.15,1095.6999999999998,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,333.15,1092.1000000000001,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,338.15,1088.5,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Lactic Acid,343.15,1085.0,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,CC(O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,293.15,1263.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,298.15,1259.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,303.15,1255.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,308.15,1252.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,313.15,1248.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,318.15,1245.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,323.15,1241.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,328.15,1238.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,333.15,1234.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,338.15,1231.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,343.15,1228.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Oxalic acid,348.15,1224.0,1,1,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,OC(=O)C(O)=O,Train
+Benzyl tripropyl ammonium Chloride,Phenol,293.15,1060.3,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,298.15,1057.0,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,303.15,1053.7,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,308.15,1050.5,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,313.15,1047.1999999999998,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,318.15,1043.9,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,323.15,1040.6,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,328.15,1037.4,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,333.15,1034.1,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,338.15,1030.8999999999999,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Benzyl tripropyl ammonium Chloride,Phenol,343.15,1027.6000000000001,1,3,[Cl-].CCC[N+](CCC)(CCC)Cc1ccccc1,Oc1ccccc1,Train
+Betaine,Lactic acid,298.15,1201.4,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,303.15,1197.8999999999999,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,308.15,1194.3999999999999,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,313.15,1190.9,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,318.15,1187.4,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,323.15,1183.8999999999999,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,328.15,1180.3999999999999,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,333.15,1176.9,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,338.15,1173.4,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,343.15,1169.8999999999999,1,2,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,293.15,1208.9,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,298.15,1205.1000000000001,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,303.15,1201.2,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,308.15,1197.2,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,313.15,1193.3,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,318.15,1189.4,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,323.15,1185.4,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,328.15,1181.5,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,333.15,1177.5,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,338.15,1173.5,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Lactic acid,343.15,1169.6,1,5,C[N+](C)(C)CC([O-])=O,CC(O)C(O)=O,Train
+Betaine,Levulinic acid,293.15,1161.8999999999999,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,298.15,1158.3000000000002,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,303.15,1154.7,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,308.15,1151.2,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,313.15,1147.6,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,318.15,1144.1,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,323.15,1140.6000000000001,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,328.15,1137.1,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,333.15,1133.6,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,338.15,1130.1000000000001,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+Betaine,Levulinic acid,343.15,1126.6000000000001,1,2,C[N+](C)(C)CC([O-])=O,CC(=O)CCC(O)=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,293.15,1242.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,298.15,1239.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,303.15,1236.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,308.15,1233.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,313.15,1230.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,318.15,1227.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,323.15,1224.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,328.15,1220.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,333.15,1217.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,338.15,1214.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,343.15,1210.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,348.15,1207.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Fructose,353.15,1203.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,293.15,1255.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,298.15,1252.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,303.15,1250.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,308.15,1247.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,313.15,1244.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,318.15,1241.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,323.15,1238.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,328.15,1235.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,333.15,1232.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,338.15,1229.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,343.15,1226.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,348.15,1223.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Glucose,353.15,1220.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,293.15,1262.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,298.15,1260.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,303.15,1257.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,308.15,1255.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,313.15,1252.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,318.15,1249.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,323.15,1246.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,328.15,1243.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,333.15,1240.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,338.15,1237.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,343.15,1234.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,348.15,1231.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Mannose,353.15,1228.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,293.15,1246.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,298.15,1243.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,303.15,1240.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,308.15,1237.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,313.15,1234.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,318.15,1231.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,323.15,1228.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,328.15,1224.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,333.15,1221.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,338.15,1218.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,343.15,1215.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,348.15,1212.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Ribose,353.15,1209.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,293.15,1227.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,298.15,1224.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,303.15,1221.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,308.15,1218.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,313.15,1215.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,318.15,1212.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,323.15,1209.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,328.15,1207.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,333.15,1204.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,338.15,1201.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,343.15,1198.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,348.15,1195.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+benzyldimethyl(2-hydroxyethyl) ammonium chloride,D-Xylose,353.15,1192.0,1,1,[Cl-].C[N+](C)(CCO)Cc1ccccc1,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Test
+Choline chloride,"1,2-propanediol",293.15,1066.6,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,2-propanediol",303.15,1059.9,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,2-propanediol",313.15,1053.3,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,2-propanediol",323.15,1046.7,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,2-propanediol",293.15,1066.3,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,2-propanediol",303.15,1060.2,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,2-propanediol",313.15,1054.1000000000001,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,2-propanediol",323.15,1048.0,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)CO,Train
+Choline chloride,"1,4-butanediol",293.15,1052.4,1,3,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",303.15,1049.0,1,3,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",313.15,1043.1999999999998,1,3,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",323.15,1038.4,1,3,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",293.15,1044.5,1,4,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",303.15,1041.1,1,4,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",313.15,1035.4,1,4,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",323.15,1030.6,1,4,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"1,4-butanediol",303.15,1041.0,1,4,[Cl-].C[N+](C)(C)CCO,OCCCCO,Train
+Choline chloride,"2,3-butanediol",293.15,1046.8,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Test
+Choline chloride,"2,3-butanediol",303.15,1039.0,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Test
+Choline chloride,"2,3-butanediol",313.15,1035.7,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Test
+Choline chloride,"2,3-butanediol",323.15,1030.0,1,3,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Test
+Choline chloride,"2,3-butanediol",293.15,1035.0,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Train
+Choline chloride,"2,3-butanediol",303.15,1030.8999999999999,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Train
+Choline chloride,"2,3-butanediol",313.15,1026.5,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Train
+Choline chloride,"2,3-butanediol",323.15,1019.7,1,4,[Cl-].C[N+](C)(C)CCO,CC(O)C(C)O,Train
+Choline chloride,Acetamide,303.15,1085.2,1,2,[Cl-].C[N+](C)(C)CCO,CC(N)=O,Train
+Choline chloride,Citric acid,296.15,1300.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)(CC(O)=O)C(O)=O,Train
+Choline chloride,Citric acid,303.15,1331.3,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)(CC(O)=O)C(O)=O,Train
+Choline chloride,D-Fructose,298.15,1337.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,308.15,1331.6,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,318.15,1326.2,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,328.15,1320.7,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,338.15,1315.1999999999998,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,348.15,1309.3,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,358.15,1303.1,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,298.15,1303.6000000000001,1.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,308.15,1298.2,1.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,318.15,1292.7,1.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,328.15,1287.3000000000002,1.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,338.15,1281.8,1.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,348.15,1275.9,1.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,358.15,1269.7,1.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,298.15,1277.9,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,308.15,1272.5,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,318.15,1266.8999999999999,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,328.15,1261.2,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,338.15,1255.5,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,348.15,1249.7,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,358.15,1241.9,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,298.15,1259.0,2.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,308.15,1253.7,2.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,318.15,1248.5,2.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,328.15,1243.3000000000002,2.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,338.15,1237.9,2.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,348.15,1232.3999999999999,2.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Fructose,358.15,1226.9,2.5,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO,Train
+Choline chloride,D-Glucose,296.15,1270.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Glucose,303.15,1239.7,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Glucose,313.15,1234.6,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Glucose,323.15,1229.4,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Glucose,333.15,1224.3,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Glucose,343.15,1219.2,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Glucose,353.15,1214.0,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Mannose,293.15,1281.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,298.15,1278.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,303.15,1275.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,308.15,1272.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,313.15,1270.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,318.15,1267.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,323.15,1264.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,328.15,1262.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,333.15,1259.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,338.15,1256.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,343.15,1254.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,348.15,1251.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Mannose,353.15,1248.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C=O,Train
+Choline chloride,D-Ribose,293.15,1269.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,298.15,1267.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,303.15,1264.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,308.15,1261.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,313.15,1258.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,318.15,1255.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,323.15,1252.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,328.15,1249.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,333.15,1246.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,338.15,1243.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,343.15,1240.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,348.15,1237.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Ribose,353.15,1235.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Sorbitol,303.15,1279.4,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,Train
+Choline chloride,D-Sucrose,296.15,1350.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Train
+Choline chloride,D-Sucrose,296.15,1230.0,2,1,[Cl-].C[N+](C)(C)CCO,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Train
+Choline chloride,D-Sucrose,296.15,1220.0,4,1,[Cl-].C[N+](C)(C)CCO,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,Train
+Choline chloride,D-Xylose,293.15,1260.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,298.15,1257.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,303.15,1254.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,308.15,1251.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,313.15,1248.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,318.15,1246.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,323.15,1243.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,328.15,1240.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,333.15,1238.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,338.15,1235.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,343.15,1232.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,348.15,1229.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,353.15,1227.0,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,D-Xylose,296.15,1220.0,3,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+Choline chloride,Ethylene glycol,298.15,1118.0,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,303.15,1115.6,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,308.15,1112.2,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,313.15,1109.6999999999998,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,318.15,1106.4,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,323.15,1103.6999999999998,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,328.15,1100.6,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,333.15,1096.8,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,338.15,1094.8,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,343.15,1091.0,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,348.15,1089.0,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,353.15,1087.0,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,358.15,1083.2,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,363.15,1082.0,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,368.15,1077.3999999999999,1,1.78,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,303.15,1113.8999999999999,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,308.15,1110.9,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,313.15,1108.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,318.15,1105.3,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,323.15,1102.5,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,328.15,1099.6999999999998,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,333.15,1096.9,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,338.15,1094.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,343.15,1091.3,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,348.15,1088.6,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,353.15,1085.8000000000002,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,358.15,1083.0,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,363.15,1080.3,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,298.15,1117.0,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,303.15,1114.2,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,308.15,1111.3,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,313.15,1108.4,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,318.15,1105.6,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,323.15,1102.7,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,328.15,1099.9,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,333.15,1097.0,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,283.15,1122.9,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,293.15,1117.1,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,303.15,1111.3999999999999,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,313.15,1105.6999999999998,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,323.15,1100.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,333.15,1094.7,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,343.15,1088.7,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,353.15,1081.9,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,363.15,1074.4,1,2,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,298.15,1117.3999999999999,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,303.15,1114.6000000000001,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,308.15,1111.6999999999998,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,313.15,1108.8,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,318.15,1105.9,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,323.15,1103.6,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,328.15,1100.1000000000001,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,333.15,1097.3999999999999,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,338.15,1094.4,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,343.15,1091.6,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,348.15,1088.5,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,353.15,1085.3999999999999,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,358.15,1082.6,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,363.15,1079.1,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,368.15,1076.7,1,2.03,[Cl-].C[N+](C)(C)CCO,OCCO,Test
+Choline chloride,Ethylene glycol,298.15,1117.0,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,303.15,1114.1000000000001,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,308.15,1111.1,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,313.15,1108.2,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,318.15,1105.2,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,323.15,1102.3,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,328.15,1099.3,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,333.15,1096.2,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,338.15,1093.3999999999999,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,343.15,1090.4,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,348.15,1087.5,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,353.15,1084.7,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,358.15,1081.6,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,363.15,1078.8,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Ethylene glycol,368.15,1075.7,1,2.57,[Cl-].C[N+](C)(C)CCO,OCCO,Train
+Choline chloride,Glutaric acid,293.15,1191.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,298.15,1188.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,303.15,1185.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,308.15,1182.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,313.15,1179.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,318.15,1176.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,323.15,1173.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,328.15,1170.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,333.15,1167.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,338.15,1164.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,343.15,1161.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,348.15,1158.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glutaric acid,353.15,1155.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CCCC(O)=O,Train
+Choline chloride,Glycerol,298.15,1155.8,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,303.15,1153.5,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,308.15,1150.6000000000001,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,313.15,1148.3000000000002,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,318.15,1145.3999999999999,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,323.15,1143.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,328.15,1140.2,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,333.15,1137.8999999999999,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,338.15,1134.9,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,343.15,1132.6000000000001,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,348.15,1129.6,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,353.15,1126.6000000000001,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,358.15,1124.3000000000002,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,363.15,1122.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,368.15,1119.1,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,303.15,1185.4,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,283.15,1200.1,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,293.15,1194.3,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,303.15,1188.5,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,313.15,1182.7,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,323.15,1177.0,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,333.15,1171.3,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,343.15,1164.8,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,353.15,1157.5,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,363.15,1149.5,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,298.15,1191.2,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,303.15,1188.5,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,308.15,1185.7,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,313.15,1182.3,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,318.15,1180.1999999999998,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,323.15,1177.5,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,328.15,1174.7,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,333.15,1171.8999999999999,1,2,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,298.15,1192.0,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,303.15,1189.5,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,308.15,1186.7,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,313.15,1183.8,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,318.15,1181.4,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,323.15,1177.6,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,328.15,1176.1,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,333.15,1174.1,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,338.15,1170.8,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,343.15,1167.4,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,348.15,1165.5,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,353.15,1163.5,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,358.15,1160.1999999999998,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,363.15,1157.1,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,368.15,1154.9,1,2.03,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Test
+Choline chloride,Glycerol,298.15,1203.0,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,303.15,1200.2,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,308.15,1197.6,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,313.15,1195.1000000000001,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,318.15,1192.1999999999998,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,323.15,1189.1000000000001,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,328.15,1186.8000000000002,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,333.15,1184.3999999999999,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,338.15,1181.4,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,343.15,1178.1,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,348.15,1176.0,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,353.15,1173.2,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,358.15,1170.6000000000001,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,363.15,1167.8,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycerol,368.15,1165.2,1,3,[Cl-].C[N+](C)(C)CCO,OCC(O)CO,Train
+Choline chloride,Glycolic acid,293.15,1198.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,298.15,1195.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,303.15,1192.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,308.15,1189.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,313.15,1186.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,318.15,1183.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,323.15,1181.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,328.15,1178.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,333.15,1175.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,338.15,1172.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,343.15,1170.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,348.15,1167.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Glycolic acid,353.15,1164.0,1,1,[Cl-].C[N+](C)(C)CCO,OCC(O)=O,Train
+Choline chloride,Guaiacol,293.15,1153.3,1,3,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Train
+Choline chloride,Guaiacol,303.15,1147.5,1,3,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Train
+Choline chloride,Guaiacol,313.15,1141.2,1,3,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Train
+Choline chloride,Guaiacol,323.15,1134.1000000000001,1,3,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Train
+Choline chloride,Guaiacol,293.15,1155.6,1,4,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Guaiacol,303.15,1147.7,1,4,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Guaiacol,313.15,1140.6000000000001,1,4,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Guaiacol,323.15,1132.4,1,4,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Guaiacol,293.15,1149.7,1,5,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Guaiacol,303.15,1143.3999999999999,1,5,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Guaiacol,313.15,1136.2,1,5,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Guaiacol,323.15,1128.0,1,5,[Cl-].C[N+](C)(C)CCO,COc1ccccc1O,Test
+Choline chloride,Levulinic acid,293.15,1142.0,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,298.15,1138.4,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,303.15,1134.8,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,308.15,1131.2,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,313.15,1127.5,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,318.15,1124.0,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,323.15,1120.4,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,328.15,1116.7,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,333.15,1113.6999999999998,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,338.15,1110.1000000000001,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,343.15,1106.5,1,1,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,303.15,1132.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,293.15,1141.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,298.15,1138.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,303.15,1134.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,308.15,1131.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,313.15,1128.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,318.15,1125.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,323.15,1121.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,328.15,1118.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,333.15,1115.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,338.15,1112.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,343.15,1108.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,348.15,1105.0,1,2,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,303.15,1134.6000000000001,1,3,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,313.15,1127.6,1,3,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,323.15,1120.9,1,3,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,333.15,1113.8,1,3,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,303.15,1134.1000000000001,1,4,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Test
+Choline chloride,Levulinic acid,313.15,1127.3,1,4,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Test
+Choline chloride,Levulinic acid,323.15,1120.4,1,4,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Test
+Choline chloride,Levulinic acid,333.15,1113.1,1,4,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Test
+Choline chloride,Levulinic acid,303.15,1133.6999999999998,1,5,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,313.15,1127.0,1,5,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,323.15,1120.2,1,5,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Levulinic acid,333.15,1113.0,1,5,[Cl-].C[N+](C)(C)CCO,CC(=O)CCC(O)=O,Train
+Choline chloride,Malonic acid,293.15,1234.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,298.15,1231.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,303.15,1228.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,308.15,1224.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,313.15,1221.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,318.15,1218.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,323.15,1215.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,328.15,1212.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,333.15,1209.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,338.15,1207.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,343.15,1204.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,348.15,1201.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,303.15,1211.2,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Train
+Choline chloride,Malonic acid,283.15,1191.5,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,293.15,1185.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,303.15,1178.6000000000001,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,313.15,1172.3,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,323.15,1166.0,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,333.15,1160.3000000000002,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,343.15,1154.0,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,353.15,1146.6000000000001,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Malonic acid,363.15,1138.8,1,2,[Cl-].C[N+](C)(C)CCO,OC(=O)CC(O)=O,Test
+Choline chloride,Furfulyl alcohol,303.15,1131.8,1,3,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,313.15,1125.2,1,3,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,323.15,1118.6000000000001,1,3,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,333.15,1112.0,1,3,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,303.15,1131.5,1,4,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,313.15,1124.3000000000002,1,4,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,323.15,1117.1,1,4,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,333.15,1109.9,1,4,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,303.15,1130.9,1,5,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,313.15,1123.8,1,5,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,323.15,1116.6000000000001,1,5,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,Furfulyl alcohol,333.15,1109.5,1,5,[Cl-].C[N+](C)(C)CCO,C1=COC(=C1)CO,Train
+Choline chloride,O-Cresol,298.2,1077.6,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccccc1O,Train
+Choline chloride,O-Cresol,298.2,1070.7,1,3,[Cl-].C[N+](C)(C)CCO,Cc1ccccc1O,Test
+Choline chloride,O-Cresol,298.2,1066.4,1,3.91,[Cl-].C[N+](C)(C)CCO,Cc1ccccc1O,Train
+Choline chloride,O-Cresol,298.2,1063.1,1,5,[Cl-].C[N+](C)(C)CCO,Cc1ccccc1O,Train
+Choline chloride,O-Cresol,298.2,1060.6,1,6,[Cl-].C[N+](C)(C)CCO,Cc1ccccc1O,Train
+Choline chloride,Oxalic acid,303.15,1237.1000000000001,1,1,[Cl-].C[N+](C)(C)CCO,OC(=O)C(O)=O,Test
+Choline chloride,P-Chlorophenol,293.15,1203.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,298.15,1198.8000000000002,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,303.15,1194.6000000000001,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,308.15,1190.0,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,313.15,1185.8999999999999,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,318.15,1181.6,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,323.15,1177.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,328.15,1172.8,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Chlorophenol,333.15,1167.8999999999999,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccc(Cl)cc1,Train
+Choline chloride,P-Cresol,293.15,1072.0,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,298.15,1068.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,303.15,1064.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,308.15,1059.9,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,313.15,1055.8000000000002,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,318.15,1051.8000000000002,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,323.15,1047.6000000000001,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,328.15,1044.0,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,P-Cresol,333.15,1039.8,1,2,[Cl-].C[N+](C)(C)CCO,Cc1ccc(O)cc1,Train
+Choline chloride,Phenol,293.2,1099.5,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,298.2,1096.7,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,303.2,1093.0,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,308.2,1090.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,313.2,1087.3,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,318.2,1084.3,1,2,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,293.2,1094.8,1,3,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,298.2,1092.1000000000001,1,3,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,303.2,1089.0,1,3,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,308.2,1085.8000000000002,1,3,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,313.2,1082.8999999999999,1,3,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,318.2,1079.5,1,3,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,293.2,1091.8000000000002,1,4,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,298.2,1089.3,1,4,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,303.2,1086.0,1,4,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,308.2,1081.9,1,4,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,313.2,1079.5,1,4,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,318.2,1076.3,1,4,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,293.2,1089.8000000000002,1,5,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,298.2,1087.0,1,5,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,303.2,1083.8000000000002,1,5,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,308.2,1080.3,1,5,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,313.2,1076.1000000000001,1,5,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,318.2,1073.6000000000001,1,5,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,293.2,1088.5,1,6,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,298.2,1085.2,1,6,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,303.2,1081.8000000000002,1,6,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,308.2,1078.2,1,6,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,313.2,1074.5,1,6,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,Phenol,318.2,1071.7,1,6,[Cl-].C[N+](C)(C)CCO,Oc1ccccc1,Train
+Choline chloride,p-Toluenesulfonic acid,303.15,1207.4,1,1,[Cl-].C[N+](C)(C)CCO,Cc1ccc(cc1)[S](O)(=O)=O,Train
+Choline chloride,Tartaric acid,296.15,1260.0,1,1,[Cl-].C[N+](C)(C)CCO,OC(C(O)C(O)=O)C(O)=O,Train
+Choline chloride,Tartaric acid,303.15,1273.5,2,1,[Cl-].C[N+](C)(C)CCO,OC(C(O)C(O)=O)C(O)=O,Train
+Choline chloride,Triethylene glycol,303.15,1125.3999999999999,1,2,[Cl-].C[N+](C)(C)CCO,OCCOCCOCCO,Train
+Choline chloride,Triethylene glycol,313.15,1118.9,1,2,[Cl-].C[N+](C)(C)CCO,OCCOCCOCCO,Train
+Choline chloride,Triethylene glycol,323.15,1112.5,1,2,[Cl-].C[N+](C)(C)CCO,OCCOCCOCCO,Train
+Choline chloride,Triethylene glycol,333.15,1106.2,1,2,[Cl-].C[N+](C)(C)CCO,OCCOCCOCCO,Train
+Choline chloride,Triethylene glycol,343.15,1099.8000000000002,1,2,[Cl-].C[N+](C)(C)CCO,OCCOCCOCCO,Train
+Choline chloride,Triethylene glycol,353.15,1093.5,1,2,[Cl-].C[N+](C)(C)CCO,OCCOCCOCCO,Train
+Choline chloride,Triethylene glycol,303.15,1120.2,1,4,[Cl-].C[N+](C)(C)CCO,OCCOCCOCCO,Train
+Choline chloride,Urea,303.15,1187.8999999999999,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,298.15,1197.8999999999999,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,303.15,1195.2,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,308.15,1192.6000000000001,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,313.15,1190.0,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,318.15,1187.4,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,323.15,1184.8000000000002,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,328.15,1182.1999999999998,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,333.15,1179.6,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,338.15,1177.0,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,343.15,1174.4,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,348.15,1171.8,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,353.15,1169.2,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,293.15,1200.1,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,303.15,1194.5,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,313.15,1188.7,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,323.15,1183.1000000000001,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,333.15,1177.3,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,343.15,1170.8,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,353.15,1163.5,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Urea,363.15,1155.4,1,2,[Cl-].C[N+](C)(C)CCO,NC(N)=O,Train
+Choline chloride,Xylitol,303.15,1244.5,1,1,[Cl-].C[N+](C)(C)CCO,OC[C@@H](O)[C@H](O)[C@@H](O)CO,Train
+Citric acid,D-Glucose,296.15,1450.0,1,1,OC(=O)CC(O)(CC(O)=O)C(O)=O,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,Train
+D-Glucose,Tartaric acid,296.15,1450.0,1,1,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O,OC(C(O)C(O)=O)C(O)=O,Train
+Diethylamine hydrochloride,Guaiacol,293.15,1095.3999999999999,1,3,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,303.15,1093.1,1,3,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,313.15,1083.7,1,3,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,323.15,1075.8000000000002,1,3,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,293.15,1102.4,1,4,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,303.15,1098.3,1,4,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,313.15,1089.8000000000002,1,4,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,323.15,1084.1000000000001,1,4,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,293.15,1106.1000000000001,1,5,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,303.15,1103.5,1,5,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,313.15,1093.6999999999998,1,5,Cl.CCNCC,COc1ccccc1O,Train
+Diethylamine hydrochloride,Guaiacol,323.15,1083.5,1,5,Cl.CCNCC,COc1ccccc1O,Train
+L-proline,Lactic acid,293.15,1265.1,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,298.15,1262.6,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,303.15,1258.1,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,308.15,1254.6,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,313.15,1251.1000000000001,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,318.15,1247.6000000000001,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,323.15,1244.0,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,328.15,1240.5,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,333.15,1237.0,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,338.15,1233.6000000000001,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Lactic acid,343.15,1230.1,1,1,OC(=O)[C@@H]1CCCN1,CC(O)C(O)=O,Train
+L-proline,Levulinic acid,293.15,1201.0,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,298.15,1197.3,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,303.15,1193.5,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,308.15,1189.8,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,313.15,1186.0,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,318.15,1182.3999999999999,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,323.15,1178.7,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,328.15,1175.0,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,333.15,1171.3,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,338.15,1167.7,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+L-proline,Levulinic acid,343.15,1164.0,1,2,OC(=O)[C@@H]1CCCN1,CC(=O)CCC(O)=O,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,298.15,1250.1,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,303.15,1242.3999999999999,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,308.15,1243.2,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,313.15,1239.8,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,318.15,1236.3,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,323.15,1232.3999999999999,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,328.15,1229.3,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,333.15,1226.0,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,338.15,1222.3,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,343.15,1218.8000000000002,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,348.15,1215.3,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,353.15,1211.9,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,358.15,1208.3,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,363.15,1204.5,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,368.15,1201.3,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,298.15,1232.6,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,308.15,1225.6,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,318.15,1218.5,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,328.15,1211.4,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,338.15,1204.3,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,348.15,1197.2,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,358.15,1190.0,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,298.15,1232.6,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,303.15,1229.0,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,308.15,1225.6,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,313.15,1222.0,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,318.15,1218.5,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,323.15,1215.1000000000001,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,328.15,1211.4,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,333.15,1207.8999999999999,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,338.15,1204.3,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,343.15,1200.9,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,348.15,1197.2,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,353.15,1193.6,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,358.15,1190.0,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,363.15,1186.3999999999999,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,368.15,1182.8000000000002,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,298.15,1219.5,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,303.15,1216.3,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,308.15,1212.3999999999999,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,313.15,1208.6,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,318.15,1205.2,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,323.15,1202.0,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,328.15,1198.0,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,333.15,1194.7,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,338.15,1190.7,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,343.15,1187.0,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,348.15,1183.4,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,353.15,1179.2,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,358.15,1176.1,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,363.15,1172.3,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Ethylene glycol,368.15,1168.8,1,5.25,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCCO,Train
+Methyl triphenylphosphonium bromide,Glycerol,298.15,1289.9,1,1.75,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,308.15,1283.0,1,1.75,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,318.15,1275.9,1,1.75,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,328.15,1268.8,1,1.75,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,338.15,1261.9,1,1.75,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,348.15,1255.0,1,1.75,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,358.15,1248.0,1,1.75,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,298.15,1306.4,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,303.15,1303.0,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,308.15,1299.0,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,313.15,1295.1999999999998,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,318.15,1292.0,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,323.15,1288.6,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,328.15,1285.1,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,333.15,1281.7,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,338.15,1278.2,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,343.15,1274.8999999999999,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,348.15,1271.5,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,353.15,1268.2,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,358.15,1264.8,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,363.15,1261.5,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,368.15,1258.1,1,2.03,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Train
+Methyl triphenylphosphonium bromide,Glycerol,298.15,1297.6000000000001,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,303.15,1294.5,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,308.15,1290.6,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,313.15,1287.0,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,318.15,1283.6000000000001,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,323.15,1280.8999999999999,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,328.15,1276.6,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,333.15,1273.6000000000001,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,338.15,1269.6000000000001,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,343.15,1266.0,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,348.15,1262.6,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,353.15,1259.3000000000002,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,358.15,1255.6000000000001,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,363.15,1252.3999999999999,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,368.15,1248.6,1,3,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,298.15,1288.8999999999999,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,303.15,1285.5,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,308.15,1281.7,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,313.15,1278.0,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,318.15,1274.5,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,323.15,1271.0,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,328.15,1267.3000000000002,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,333.15,1263.4,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,338.15,1260.1,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,343.15,1256.8,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,348.15,1252.8999999999999,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,353.15,1249.5,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,358.15,1245.7,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,363.15,1242.3,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+Methyl triphenylphosphonium bromide,Glycerol,368.15,1238.6,1,4,[Br-].C[P+](c1ccccc1)(c2ccccc2)c3ccccc3,OCC(O)CO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,298.15,1099.9,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,303.15,1096.8,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,308.15,1093.8000000000002,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,313.15,1090.9,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,318.15,1087.9,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,323.15,1084.8,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,328.15,1081.8000000000002,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,333.15,1078.8,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,338.15,1075.9,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,343.15,1072.8,1,2,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,298.15,1099.5,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,303.15,1096.5,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,308.15,1093.3,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,313.15,1090.3,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,318.15,1087.1,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,323.15,1084.0,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,328.15,1080.8999999999999,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,333.15,1077.8000000000002,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,338.15,1074.8,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,343.15,1071.7,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,348.15,1068.6,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,353.15,1065.5,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,358.15,1062.4,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,363.15,1059.0,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,368.15,1056.2,1,2.03,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,298.15,1101.8,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,303.15,1098.6,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,308.15,1095.5,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,313.15,1092.6,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,318.15,1089.3,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,323.15,1086.2,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,328.15,1083.0,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,333.15,1079.7,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,338.15,1076.7,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,343.15,1074.0,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,348.15,1070.5,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,353.15,1067.5,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,358.15,1064.2,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,363.15,1060.0,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,368.15,1054.6,1,3,CC(C)(C)NCCO.Cl,OCCO,Train
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,298.15,1103.6999999999998,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,303.15,1100.4,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,308.15,1097.3,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,313.15,1094.2,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,318.15,1091.0,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,323.15,1087.6999999999998,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,328.15,1084.6,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,333.15,1081.5,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,338.15,1078.2,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,343.15,1075.0,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,348.15,1071.8000000000002,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,353.15,1068.3,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,358.15,1065.3999999999999,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,363.15,1062.2,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Ethylene glycol,368.15,1059.0,1,4,CC(C)(C)NCCO.Cl,OCCO,Test
+"n,n-Diethylethanolammonium chloride",Glycerol,298.15,1176.6000000000001,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,303.15,1173.5,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,308.15,1170.3,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,313.15,1167.2,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,318.15,1164.1999999999998,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,323.15,1161.2,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,328.15,1158.1999999999998,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,333.15,1155.2,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,338.15,1152.1999999999998,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,343.15,1149.2,1,2,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,298.15,1173.1000000000001,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,303.15,1170.0,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,308.15,1167.1000000000001,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,313.15,1163.8,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,318.15,1161.3,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,323.15,1158.5,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,328.15,1155.4,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,333.15,1153.1,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,338.15,1149.2,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,343.15,1145.8,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,348.15,1143.1,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,353.15,1140.3000000000002,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,358.15,1137.3999999999999,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,363.15,1134.4,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,368.15,1131.1,1,2.03,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,298.15,1205.1000000000001,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,303.15,1202.0,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,308.15,1199.0,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,313.15,1196.1,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,318.15,1192.9,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,323.15,1188.3999999999999,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,328.15,1186.8000000000002,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,333.15,1184.0,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,338.15,1180.7,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,343.15,1177.7,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,348.15,1174.6000000000001,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,353.15,1171.8999999999999,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,358.15,1168.5,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,363.15,1166.1,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,368.15,1162.4,1,3,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,298.15,1220.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,303.15,1217.3,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,308.15,1214.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,313.15,1211.4,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,318.15,1208.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,323.15,1204.8000000000002,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,328.15,1202.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,333.15,1198.9,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,338.15,1196.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,343.15,1193.6,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,348.15,1190.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,353.15,1187.3,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,358.15,1184.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,363.15,1180.7,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+"n,n-Diethylethanolammonium chloride",Glycerol,368.15,1178.1,1,4,CC(C)(C)NCCO.Cl,OCC(O)CO,Train
+Tetrabutylammonium chloride,Arginine,303.15,1004.1999999999999,6,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,313.15,998.3,6,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,323.15,992.1,6,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,333.15,986.0,6,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,343.15,980.1999999999999,6,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,353.15,974.0999999999999,6,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,303.15,991.1,7,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,313.15,983.0,7,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,323.15,977.3,7,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,333.15,970.0999999999999,7,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,343.15,963.3000000000001,7,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,353.15,957.0,7,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,303.15,994.0,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,313.15,988.1999999999999,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,323.15,982.3,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,333.15,976.0,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,343.15,970.3000000000001,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Arginine,353.15,964.0,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,C(C[C@@H](C(=O)O)N)CN=C(N)N,Train
+Tetrabutylammonium chloride,Aspartic acid,303.15,962.0999999999999,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,313.15,956.2,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,323.15,950.0999999999999,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,333.15,944.3000000000001,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,343.15,938.3000000000001,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,353.15,933.1,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,303.15,958.2,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,313.15,953.2,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,323.15,947.3000000000001,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,333.15,941.3000000000001,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,343.15,935.1,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,353.15,929.0,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,303.15,957.3000000000001,11,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,313.15,951.0,11,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,323.15,946.2,11,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,333.15,939.1,11,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,343.15,934.0,11,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Aspartic acid,353.15,928.0,11,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Ethylene glycol,293.15,1105.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Test
+Tetrabutylammonium chloride,Ethylene glycol,303.15,1099.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Test
+Tetrabutylammonium chloride,Ethylene glycol,313.15,1092.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Test
+Tetrabutylammonium chloride,Ethylene glycol,323.15,1086.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Test
+Tetrabutylammonium chloride,Ethylene glycol,333.15,1079.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Test
+Tetrabutylammonium chloride,Ethylene glycol,343.15,1073.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Test
+Tetrabutylammonium chloride,Ethylene glycol,353.15,1067.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Test
+Tetrabutylammonium chloride,Ethylene glycol,293.15,1130.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,303.15,1123.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,313.15,1117.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,323.15,1110.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,333.15,1104.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,343.15,1097.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,353.15,1091.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,293.15,1145.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,303.15,1138.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,313.15,1132.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,323.15,1125.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,333.15,1119.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,343.15,1112.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Ethylene glycol,353.15,1106.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCO,Train
+Tetrabutylammonium chloride,Glutamic acid,303.15,964.0999999999999,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,313.15,957.9,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,323.15,952.2,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,333.15,946.0,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,343.15,940.2,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,353.15,934.0,8,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,303.15,963.0,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,313.15,957.2,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,323.15,951.0,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,333.15,945.2,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,343.15,938.9,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,353.15,932.0,9,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,303.15,961.2,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,313.15,954.9,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,323.15,949.0,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,333.15,942.9,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,343.15,937.2,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glutamic acid,353.15,931.0,10,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,N[C@@H](CCC(O)=O)C(O)=O,Train
+Tetrabutylammonium chloride,Glycerol,293.15,1014.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Test
+Tetrabutylammonium chloride,Glycerol,303.15,1008.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Test
+Tetrabutylammonium chloride,Glycerol,313.15,1000.9999999999999,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Test
+Tetrabutylammonium chloride,Glycerol,323.15,995.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Test
+Tetrabutylammonium chloride,Glycerol,333.15,988.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Test
+Tetrabutylammonium chloride,Glycerol,343.15,982.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Test
+Tetrabutylammonium chloride,Glycerol,353.15,976.0,1,3,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Test
+Tetrabutylammonium chloride,Glycerol,293.15,1029.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,303.15,1022.9999999999999,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,313.15,1016.9999999999999,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,323.15,1010.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,333.15,1004.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,343.15,997.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,353.15,991.0,1,4,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,293.15,1040.0,1,5,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,303.15,1034.0,1,5,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,313.15,1027.0,1,5,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,323.15,1020.0,1,5,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,333.15,1014.0,1,5,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,343.15,1006.9999999999999,1,5,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,Glycerol,353.15,1000.0,1,5,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCC(O)CO,Train
+Tetrabutylammonium chloride,phenylacetic acid,288.15,1046.8,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,293.15,1043.6000000000001,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,298.15,1040.4,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,303.15,1037.1,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,308.15,1033.9,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,313.15,1030.6,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,318.15,1027.3000000000002,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,323.15,1024.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,328.15,1020.6999999999999,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,333.15,1017.6,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,phenylacetic acid,338.15,1014.3,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OC(=O)Cc1ccccc1,Test
+Tetrabutylammonium chloride,Propionic acid,288.15,972.4000000000001,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,293.15,969.1999999999999,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,298.15,965.9,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,303.15,962.7,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,308.15,959.4,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,313.15,956.0999999999999,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,318.15,952.8,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,323.15,949.5,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,328.15,946.3000000000001,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,333.15,943.0,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Propionic acid,338.15,939.6999999999999,1,2,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,CCC(O)=O,Train
+Tetrabutylammonium chloride,Triethylene glycol,293.15,1027.0,1,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,303.15,1020.9999999999999,1,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,313.15,1014.9999999999999,1,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,323.15,1008.9999999999999,1,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,333.15,1002.9999999999999,1,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,343.15,997.0,1,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,353.15,991.0,1,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,293.15,1006.9999999999999,2,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,303.15,1000.9999999999999,2,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,313.15,995.0,2,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,323.15,989.0,2,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,333.15,983.0,2,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,343.15,976.0,2,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,353.15,970.0,2,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Test
+Tetrabutylammonium chloride,Triethylene glycol,293.15,996.0,3,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,303.15,990.0,3,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,313.15,984.0,3,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,323.15,978.0,3,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,333.15,972.0,3,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,343.15,966.0,3,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,353.15,960.0,3,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,293.15,990.0,4,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,303.15,985.0,4,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,313.15,980.0,4,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,323.15,973.0,4,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,333.15,968.0,4,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,343.15,961.0,4,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetrabutylammonium chloride,Triethylene glycol,353.15,955.0,4,1,[Cl-].CCCC[N+](CCCC)(CCCC)CCCC,OCCOCCOCCO,Train
+Tetraethylammonium chloride,Levulinic acid,293.15,1097.3999999999999,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,298.15,1093.9,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,303.15,1090.3,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,308.15,1086.6,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,313.15,1083.3,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,318.15,1079.7,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,323.15,1076.1000000000001,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,328.15,1073.5,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,333.15,1069.1999999999998,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,338.15,1065.7,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium chloride,Levulinic acid,343.15,1062.3,1,1,[Cl-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,293.15,1177.4,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,298.15,1173.6,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,303.15,1168.5,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,308.15,1166.0,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,313.15,1162.1999999999998,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,318.15,1158.4,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,323.15,1154.6000000000001,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,328.15,1151.2,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,333.15,1147.3999999999999,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,338.15,1143.5,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetraethylammonium bromide,Levulinic acid,343.15,1139.7,1,1,[Br-].CC[N+](CC)(CC)CC,CC(=O)CCC(O)=O,Train
+Tetrahexylammonium bromide,Ethylene glycol,293.15,1007.8000000000001,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,298.15,1004.5,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,303.15,1001.3000000000001,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,308.15,998.3,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,313.15,995.1,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,318.15,991.9,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,323.15,988.6,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,328.15,985.4000000000001,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,333.15,982.1999999999999,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,338.15,978.9,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Ethylene glycol,343.15,975.7,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCCO,Train
+Tetrahexylammonium bromide,Glycerol,293.15,1045.8,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,298.15,1042.6,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,303.15,1039.3,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,308.15,1036.0,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,313.15,1032.7,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,318.15,1029.5,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,323.15,1026.3,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,328.15,1023.0999999999999,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,333.15,1020.0,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,338.15,1016.8,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Tetrahexylammonium bromide,Glycerol,343.15,1013.7,1,2,[Br-].CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC,OCC(O)CO,Train
+Betaine,2-Chloro benzoic acid,338.15,1290.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,2-Chloro benzoic acid,348.15,1270.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,2-Chloro benzoic acid,363.15,1250.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,2-Chloro benzoic acid,373.15,1240.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,2-Chloro benzoic acid,338.15,1270.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,2-Chloro benzoic acid,348.15,1250.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,2-Chloro benzoic acid,363.15,1230.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,2-Chloro benzoic acid,373.15,1220.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1Cl,Train
+Betaine,Benzoic acid,353.15,1180.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1,Test
+Betaine,Benzoic acid,363.15,1170.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1,Test
+Betaine,Benzoic acid,373.15,1150.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)c1ccccc1,Test
+Betaine,Mandelic acid,298.15,1220.0,1,2,C[N+](C)(C)CC([O-])=O,OC(C(O)=O)c1ccccc1,Train
+Betaine,Mandelic acid,323.15,1210.0,1,2,C[N+](C)(C)CC([O-])=O,OC(C(O)=O)c1ccccc1,Train
+Betaine,Mandelic acid,333.15,1200.0,1,2,C[N+](C)(C)CC([O-])=O,OC(C(O)=O)c1ccccc1,Train
+Betaine,Mandelic acid,348.15,1190.0,1,2,C[N+](C)(C)CC([O-])=O,OC(C(O)=O)c1ccccc1,Train
+Betaine,Mandelic acid,363.15,1180.0,1,2,C[N+](C)(C)CC([O-])=O,OC(C(O)=O)c1ccccc1,Train
+Betaine,Phenylacetic acid,298.15,1160.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)Cc1ccccc1,Test
+Betaine,Phenylacetic acid,323.15,1150.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)Cc1ccccc1,Test
+Betaine,Phenylacetic acid,333.15,1130.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)Cc1ccccc1,Test
+Betaine,Phenylacetic acid,348.15,1120.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)Cc1ccccc1,Test
+Betaine,Phenylacetic acid,363.15,1110.0,1,2,C[N+](C)(C)CC([O-])=O,OC(=O)Cc1ccccc1,Test
